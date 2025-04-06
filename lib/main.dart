@@ -31,7 +31,7 @@ class _CurrencyHomePageState extends State<CurrencyHomePage> {
   final Map<String, double> rates = {
     'USD': 1.0,      // الدولار الأمريكي
     'EUR': 0.91,     // اليورو
-    'EGP': 48.5,     // الجنيه المصري
+    'EGP': 50.58,     // الجنيه المصري
     'SAR': 3.75,     // الريال السعودي
     'AED': 3.67      // الدرهم الإماراتي
   };
